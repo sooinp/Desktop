@@ -1,0 +1,15 @@
+section class = "cnms01010_chartSection__SjydY #모든 영화에 대해
+  li class = "bestChartList_chartItem__bJOPK  #각 영화 칸
+    div class = "bestChartList_posterArea__kC8VD
+      img alt = "영화제목 포스터"
+      div class = "bestChartList_posterBottom__YjftC"
+        div class = "bestChartList_cinemaBadges__lefce"
+          img alt = "IMAX"
+          img alt = "4DX"
+          img alt = "SCREENX"
+        div class = "bestChartList_textArea__SKJ3"
+          h3 class = "bestChartList_titleWrap__27mlt"
+            span class = "bestChartList_name__sZyhY
+            img alt = "관람가"
+          p class ="bestChartList_info__SZwYg"
+            span # 에그지수(?)

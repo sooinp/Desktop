@@ -1,0 +1,23 @@
+div class = "movie-list" #영화 리스트(박스오피스)
+  li tabindex = "0" class = "no-img" #영화마다 존재
+    div class = "movie-list-info" #영화 정보
+      p class = "rank" #등수
+      img src = "~~(링크)~~" alt = "영화제목"
+      div class = "screen-type2" #영화 돌비타입 유무
+        p id = "mx4d"
+        p id = "dolby"
+        p id = "atmos"
+      div class= "megaOnly" #독점 영화 유무
+      div class = "movie-score" #영화 점수 설명
+        a href = "~~(링크)~~" title = "영화제목 상세보기"
+        div class = "summary" #짧은 영화 설명
+        div class = "my-score-big"
+          p class = "number" #관람평점(float형)
+    div class = "tit-area"
+      p title = "영화제목" class = "tit" #영화제목(str형)
+    div class = "rate-date"
+      span class = "rate" #예매율 (%) 표시
+      span class = "date" #개봉일 xxxx.xx.xx 형태로 표시
+    div class = "btn-util" #액티브 버튼
+      button type = "button" class = "button btn-like"
+        span #좋아요 수
