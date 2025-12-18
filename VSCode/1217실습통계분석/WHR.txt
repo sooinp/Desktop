@@ -1,0 +1,20 @@
+Country,Region,Happiness Rank,Happiness Score,Standard Error,Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity,Dystopia Residual
+
+Country,Region,Happiness Rank,Happiness Score,Lower Confidence Interval,Upper Confidence Interval,Economy (GDP per Capita),Family,Health (Life Expectancy),Freedom,Trust (Government Corruption),Generosity,Dystopia Residual
+
+"Country","Happiness.Rank","Happiness.Score","Whisker.high","Whisker.low","Economy..GDP.per.Capita.","Family","Health..Life.Expectancy.","Freedom","Generosity","Trust..Government.Corruption.","Dystopia.Residual"
+
+Overall rank,Country or region,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+
+Overall rank,Country or region,Score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption
+
+공통점:
+Country (of region)(지역), Happiness Score(행복지수), Rank(18-19년도는 Score에서 따로 만들어야 함), GDP per capita, Healthy life expectancy(Health)(건강?기대수명), Freedom (to make life choices)(선택의 자유도), Generosity(여유지수?)
+
+Perceptions of corruption(부패인식지수) 와 Trust(Government Corruption)(정부부패에 대한 국민 신뢰도)은 같은 설명, 서로 수치적 정비례하는 관계
+
+찾으려는 것:
+1) 어느 나라가 행복지수가 오랫동안(5년 중에) 높았나?
+2) 행복지수가 높을수록 GDP는 높은가?
+3) 행복지수가 높을수록 Freedom(선택의 자유)도 높을까?
+4) 행복지수가 높을수록 부패인식(신뢰)이 잘되는 편일까?
