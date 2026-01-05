@@ -1,0 +1,28 @@
+.page-section {
+    min-height: 100vh;
+    padding: 80px;
+}
+
+
+.toc {
+    position: fixed;
+    top: 50%;
+    right: -140px;
+    transform: translateY(-50%);
+    width: 160px;
+    background: #111;
+    color: #fff;
+    padding: 12px;
+    transition: right 0.3s;
+}
+
+
+.toc:hover {
+    right: 0;
+}
+
+
+.toc div {
+    cursor: pointer;
+    margin: 10px 0;
+}
