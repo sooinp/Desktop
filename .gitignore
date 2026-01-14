@@ -1,4 +1,6 @@
 #커밋 제외할 폴더 및 파일
 잡동사니/
+node_module/
+node_modules/
 .vscode/
 alarm.ipynb/
